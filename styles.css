@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@700&display=swap');
+
+
+body {
+    background-color: black;
+background-image: url("https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png");
+background-size: 100% 100%;
+background-attachment: fixed;
+background-repeat: repeat;
+}
+
+
+
+@keyframes d {
+    from {color: blue;}
+    to {color: turquoise}
+}
+.yee {
+    animation-name: d;
+    animation-duration: 5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+
+.navbar img{
+    width: 12%;
+    height: 12%;
+    padding: 28px 0px 0px 24px;
+}
+
+.navbar h1{
+    color: #c3e6ee;
+    font-size: 72px;
+    padding: 0px 0px 3px 364px;
+    font-family: 'Oleo Script', cursive;
+}
+
+.navbar{
+    background-color: rgb(40 43 79 / 66%);
+    display: flex;
+
+}
+
+.navitems{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    padding-left: 216px;
+}
+
+.navitem{
+    list-style: none;
+    padding: 17px 81px 25px 41px;
+}
+
+.navitem a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Sub-head{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 30px;
+}
+.subhead-content{
+    font-size: 20px;
+    line-height: 30px;
+    width: 60%;
+}
+.about{
+    display: flex;
+    flex-direction: row;
+}
+.abtimg{
+    background-image: url('https://d8it4huxumps7.cloudfront.net/uploads/images/opportunity/gallery/5f81abd222b75_whatsapp_image_2020-10-06_at_1.43.45_pm.jpeg?d=600x600');
+    width: 500px;
+    height: 250px;
+    background-size: 500px 250px;
+}
+
+table,th,td{
+    color: white;
+    width: 60%;
+    margin: auto;
+    border: 1px solid wheat;
+    border-radius: 10px;
+    text-align:center;
+    height: 100px;
+    font-size: 20px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
